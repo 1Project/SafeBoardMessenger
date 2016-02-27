@@ -1,0 +1,3 @@
+set solib-search-path src/main/jni/obj/local/x86
+source E:/Downloads/android-ndk-r10e/prebuilt/common/gdb/common.setup
+directory E:/Downloads/android-ndk-r10e/platforms/android-15/arch-x86/usr/include E:/Downloads/android-ndk-r10e/sources/android/support/include E:/Downloads/android-ndk-r10e/sources/cxx-stl/llvm-libc++ E:/Downloads/android-ndk-r10e/sources/android/compiler-rt src/main/jni E:\Documents\Projects\Android\SafeBoardMessenger\Components\messenger/include/ E:/Downloads/android-ndk-r10e/sources/cxx-stl/llvm-libc++/libcxx/include E:/Downloads/android-ndk-r10e/sources/cxx-stl/llvm-libc++/../gabi++/include E:/Downloads/android-ndk-r10e/sources/cxx-stl/llvm-libc++/../../android/support/include
